@@ -52,6 +52,7 @@ printf("no error detected");
  
 # OUTPUT:
 
+<img width="1164" height="638" alt="image" src="https://github.com/user-attachments/assets/12601341-b16e-4454-8994-262355b184f9" />
 
 # RESULT:
 Thus the error detection using CRC-CCITT[16 bit] technique is implemented and the output is obtained and verified successfully.
